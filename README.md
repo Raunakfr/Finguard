@@ -1,7 +1,7 @@
 # 🛡️ FinGuard — Invisible Fraud Detector System
 
 > 🎯 AI Solution Expo | JSS University
-> 👥 Team: Tanishq, Kshitij, Shraddha, Anika
+> 👥 Team: Tanishq, Raunak, Shraddha, Yashica
 
 ---
 
